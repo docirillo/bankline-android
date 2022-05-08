@@ -1,4 +1,4 @@
-package me.dio.bankline_android.ui.adapters
+package me.dio.bankline_android.ui.statement
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
